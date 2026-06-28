@@ -16,7 +16,7 @@
     "@azure/msal-browser": "^4.12.0",
     "@azure/identity": "^4.4.1",
     "jwt-decode": "^4.0.0",
-    "axios": "^0.21.1",
+    "axios": "^1.18.1",
     "moment-timezone": "^0.5.39",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
@@ -31,7 +31,7 @@
     "@vitejs/plugin-react": "^4.3.3",
     "env-cmd": "^10.1.0",
     "typescript": "^4.1.2",
-    "vite": "^5.4.10"
+    "vite": "^8.1.0"
   },
   "scripts": {
     "dev:teamsfx": "env-cmd --silent -f .localConfigs npm run start",
