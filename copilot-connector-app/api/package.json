@@ -18,7 +18,7 @@
         "@azure/identity": "^4.4.1",
         "@azure/msal-node": "^2.14.0",
         "@microsoft/microsoft-graph-client": "^3.0.0",
-        "csv-parse": "^5.0.4",
+        "csv-parse": "^7.0.2",
         "isomorphic-fetch": "^3.0.0"
     },
     "devDependencies": {
