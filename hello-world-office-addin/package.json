@@ -36,7 +36,7 @@
     "regenerator-runtime": "^0.14.1"
   },
   "devDependencies": {
-    "@babel/core": "^7.24.0",
+    "@babel/core": "^7.29.7",
     "@babel/preset-typescript": "^7.23.3",
     "@types/office-js": "^1.0.377",
     "@types/office-runtime": "^1.0.35",
@@ -59,7 +59,7 @@
     "typescript": "^5.4.2",
     "webpack": "^5.90.3",
     "webpack-cli": "^5.1.4",
-    "webpack-dev-server": "5.0.3"
+    "webpack-dev-server": "5.2.6"
   },
   "prettier": "office-addin-prettier-config",
   "browserslist": [
