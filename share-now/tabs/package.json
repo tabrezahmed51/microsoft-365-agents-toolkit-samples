@@ -14,7 +14,7 @@
     "@azure/identity": "^4.4.1",
     "@azure/msal-browser": "^3.24.0",
     "@uifabric/icons": "^7.5.23",
-    "axios": "^0.21.1",
+    "axios": "^1.20.0",
     "bootstrap": "5.0.1",
     "i18next": "^20.2.4",
     "i18next-xhr-backend": "^3.2.2",
