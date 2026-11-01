@@ -22,7 +22,7 @@
     "adaptivecards": "^2.11.1",
     "adaptivecards-templating": "^2.3.1",
     "adaptive-expressions": "^4.22.3",
-    "axios": "^0.26.1"
+    "axios": "^1.21.0"
   },
   "devDependencies": {
     "@types/json-schema": "^7.0.15",
